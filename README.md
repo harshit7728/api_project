@@ -3,7 +3,7 @@
 
 
 Activate a Virtual Environment
-   # For Windows:
+    For Windows:
    - venv\Scripts\activate
 Install the Dependencies
    - pip install -r requirements.txt
